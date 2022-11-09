@@ -3,8 +3,9 @@
 
 ## Features:
 - Pulls data from Open Trivia Database API
-- Use useState to create variables, mutate them and let variables reactively change on web page
-- Use useEffect to call external APIs to avoid side effects
+- Use useState to create variables, mutate them, and let variables reactively change on web page
+- Use useEffect to pull data from external API
+- Styling changes depending on state
 
 ## Screenshots
 #### Main Menu
