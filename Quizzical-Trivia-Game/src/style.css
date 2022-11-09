@@ -1,0 +1,140 @@
+body {
+  background-color: #F5F7FB;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+.menu-title {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 31.25px;
+  color: #293264;
+  margin-bottom: 0;
+}
+
+.menu-text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #293264;
+  margin-bottom: 0;
+  margin-top: 7px;
+}
+
+.menu-button {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #F5F7FB;
+  background-color: #4D5B9E;
+  border-radius: 15px;
+  height: 52px;
+  width: 193px;
+  border: none;
+  margin-top: 29px;
+}
+
+.questions-page {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  margin: 40px 75px;
+}
+
+.question-answer-line {
+  margin-top: 14px;
+}
+
+.question-with-answer {
+  align-items: left;
+  text-align: left;
+}
+
+.q {
+  margin-top: 14px;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #293264;
+}
+
+.answer-btn {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  min-width: 66px;
+  min-height: 21px;
+  border: 1px solid;
+  border-color: #4D5B9E;
+  border-radius: 8px;
+  margin-right: 13px;
+  margin-top: 16px;
+  margin-bottom: 0px;
+  color: #293264;
+}
+
+hr {
+  margin-top: 18px;
+  margin-bottom: 0px;
+  height: 1px;
+  background-color: #DBDEF0;
+  border: 1px;
+  border-color: #DBDEF0;
+}
+
+.results-container {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.check-btn {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  color: #F5F7FB;
+  width: 120px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: #4D5B9E;
+  border: #4D5B9E;
+  margin-left: 20px;
+  margin-bottom: 0;
+}
+
+.result-text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  color: #293264;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.blue-block {
+  position: absolute;
+  bottom: -30px;
+  left: -60px;
+}
+
+.yellow-block {
+  position: absolute;
+  top: -25px;
+  right: -25px;
+}
