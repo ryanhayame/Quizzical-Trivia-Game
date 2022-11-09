@@ -2,10 +2,9 @@
 ## A trivia web application created with HTML, CSS, JavaScript, and React
 
 ## Features:
-- Pulls data from Open Trivia Database API
 - Use useState to create variables, mutate them, and let variables reactively change on web page
-- Use useEffect to pull data from external API
-- Styling changes depending on state
+- Use of useEffect to pull data from Open Trivia Database API
+- Dynamic styling depending on component state
 
 ## Screenshots
 #### Main Menu
