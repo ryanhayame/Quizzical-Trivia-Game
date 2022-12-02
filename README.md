@@ -25,6 +25,7 @@ HTML, CSS, JavaScript, and React
 - Using React useState to create variables, mutate them, and let variables reactively change on web page
 - Using useEffect to pull data from Open Trivia Database API
 - Displaying dynamic styling depending on component state and user interaction
+- Practice using ternary operators and arrow functions
 
 ## How to Run the Program:
 - Uses vite, Node.js, and NPM
