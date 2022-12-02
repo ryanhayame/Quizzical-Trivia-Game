@@ -5,7 +5,7 @@
 - Dynamic page and button styling when user interacts with page or submits page
 - Questions from the Open Trivia Database API
 
-## Screenshots
+## Screenshots:
 #### Main Menu
 ![](/screenshots/1.png)
 
@@ -15,7 +15,7 @@
 #### After submitting
 ![](/screenshots/3.png)
 
-## Tech Stack
+## Tech Stack:
 HTML, CSS, JavaScript, and React
 
 ## Challenges and Lessons Learned:
