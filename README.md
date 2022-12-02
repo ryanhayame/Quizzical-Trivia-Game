@@ -1,10 +1,9 @@
 # Quizzical-Trivia-Game
-## A trivia web application created with HTML, CSS, JavaScript, and React
+## A trivia web application displaying and scoring 5 random questions from the Open Trivia Database API.
 
 ## Features:
-- Use useState to create variables, mutate them, and let variables reactively change on web page
-- Use of useEffect to pull data from Open Trivia Database API
-- Dynamic styling depending on component state
+- Dynamic page and button styling when user interacts with page or submits page
+- Questions from the Open Trivia Database API
 
 ## Screenshots
 #### Main Menu
@@ -15,3 +14,15 @@
 
 #### After submitting
 ![](/screenshots/3.png)
+
+## Tech Stack
+HTML, CSS, JavaScript, React
+
+## Challenges and Lessons Learned:
+- Using React useState to create variables, mutate them, and let variables reactively change on web page
+- Using useEffect to pull data from Open Trivia Database API
+- Displaying dynamic styling depending on component state and user interaction
+
+## How to Run the Program:
+- Uses vite, Node.js, and NPM
+- npm run dev
