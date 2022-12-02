@@ -16,7 +16,7 @@
 ![](/screenshots/3.png)
 
 ## Tech Stack
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, and React
 
 ## Challenges and Lessons Learned:
 - Using React useState to create variables, mutate them, and let variables reactively change on web page
