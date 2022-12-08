@@ -29,4 +29,5 @@ HTML, CSS, JavaScript, and React
 
 ## How to Run the Program:
 - Uses vite, Node.js, and NPM
+- npm install
 - npm run dev
