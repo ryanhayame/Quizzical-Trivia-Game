@@ -27,7 +27,7 @@ HTML, CSS, JavaScript, and React
 - Displaying dynamic styling depending on component state and user interaction
 - Practice using ternary operators and arrow functions
 
-## How to Run the Program:
+## How to Run:
 - Uses vite, Node.js, and NPM
 - npm install
 - npm run dev
